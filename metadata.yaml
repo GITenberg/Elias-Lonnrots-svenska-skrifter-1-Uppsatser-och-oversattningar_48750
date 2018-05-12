@@ -1,10 +1,14 @@
 _repo: Elias-Lonnrots-svenska-skrifter-1-Uppsatser-och-oversattningar_48750
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Forselles, Jenny af
       gutenberg_agent_id: '44955'
       url: http://www.gutenberg.org/2009/agents/44955
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lönnrot, Elias
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4153
     wikipedia: http://en.wikipedia.org/wiki/Elias_Lönnrot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48750#Elias-Lonnrots-svenska-skrifter-1-Uppsatser-och-oversattningar
 gutenberg_issued: '2015-04-20'
 gutenberg_type: Text
 identifiers:
