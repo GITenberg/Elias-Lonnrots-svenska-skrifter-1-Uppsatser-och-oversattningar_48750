@@ -29,6 +29,8 @@ language: sv
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Elias Lönnrots svenska skrifter
 
   1. Uppsatser och översättningar'
